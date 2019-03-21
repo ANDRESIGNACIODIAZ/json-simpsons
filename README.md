@@ -1,4 +1,5 @@
 # json-simpsons
+clase 21 de marzo 2019
 var a = 1234;
 var b = false;
 //true es 1  y false es 0
